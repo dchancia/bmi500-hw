@@ -1,5 +1,8 @@
 # BMI500 Homework Week 4
 
+### To Install
+
+```pip install -i https://test.pypi.org/simple/ Chanci-BMI500-HW4-pkg-dchancia==0.0.1```
 
 ### Description:
 
