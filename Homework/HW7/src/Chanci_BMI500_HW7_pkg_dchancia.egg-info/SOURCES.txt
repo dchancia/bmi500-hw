@@ -1,0 +1,8 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/Chanci_BMI500_HW7_pkg_dchancia.egg-info/PKG-INFO
+src/Chanci_BMI500_HW7_pkg_dchancia.egg-info/SOURCES.txt
+src/Chanci_BMI500_HW7_pkg_dchancia.egg-info/dependency_links.txt
+src/Chanci_BMI500_HW7_pkg_dchancia.egg-info/top_level.txt

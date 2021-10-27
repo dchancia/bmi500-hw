@@ -1,0 +1,32 @@
+Metadata-Version: 2.1
+Name: Chanci-BMI500-HW7-pkg-dchancia
+Version: 0.0.1
+Summary: AKI prediction
+Home-page: https://github.com/dchancia/Chanci_BMI500/tree/master/Homework/HW7
+Author: Daniela Chanci Arrubla
+Author-email: author@example.com
+License: UNKNOWN
+Project-URL: Bug Tracker, https://github.com/dchancia/Chanci_BMI500/tree/master/Homework/HW7/issues
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# AKI Prediction MIMICIII
+SQL and Python code for identifying biomarkers of patients that met the conditions for AKI according to the KDIGO definition.
+
+## Dataset
+MIMICIII
+
+## Files
+
+* ```get_before_aki.sql``` - Retrieves data from the MIMICIII dataset which is located in Google Cloud, it is not contained in this repository.
+* ```before_aki.csv``` - File obtained with get_before_aki.sql that contains the selected biomarkers for AKI.
+* ```cluster.py``` - Python code that applies K-means clustering to the data, and uses t-SNE and UMAP for visualization.
+* ```prediction.py``` - Python code for training and testing a SVM model for the prediction of AKI
+
+
+
