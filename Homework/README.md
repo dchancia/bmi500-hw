@@ -1,3 +1,3 @@
 # BMI500 Homework 
 
-Repository for weekly BMI500 assignments
+Repository for weekly BMI500 assignments.
